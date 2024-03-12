@@ -19,9 +19,9 @@ In this project, let's build a **Nxt Trendz - Cart Features** by applying the co
 - [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](https://assets.ccbp.in/frontend/content/react-js/nxt-trendz-cart-features-lg-output.png)
 
 </details>
-#loginDetails
-#userName:rahul
-#password:rahul@2021
+### loginDetails
+### userName:rahul
+### password:rahul@2021
 
 ### Set Up Instructions
 
