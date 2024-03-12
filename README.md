@@ -20,8 +20,13 @@ In this project, let's build a **Nxt Trendz - Cart Features** by applying the co
 
 </details>
 ### loginDetails
-### userName:rahul
-### password:rahul@2021
+<details>
+<summary>Click to view</summary>
+
+- [userName:rahul
+- [pasword:rahul@2021
+
+</details>
 
 ### Set Up Instructions
 
